@@ -1,0 +1,10 @@
+NewFilter.class
+com\mycompany\exercicio5\resources\JakartaEE10Resource.class
+com\mycompany\exercicio5\DataBaseManeger.class
+com\exerciocios\trabalho\model\DaoUsuario.class
+com\exercicios\trabalho\code\Listener1.class
+com\exercicios\trabalho\code\Controller.class
+com\exerciocios\trabalho\model\ConFactory.class
+com\exercicios\trabalho\code\JakartaRestConfiguration.class
+com\exerciocios\trabalho\model\Usuario.class
+com\exercicios\trabalho\code\MenuServlet.class
